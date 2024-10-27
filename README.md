@@ -125,4 +125,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções! Abra um pull r
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença GNU. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
